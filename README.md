@@ -1,6 +1,6 @@
 # weather_app
 
-APP weather flutter
+Weather APP  flutter
 
 
 
